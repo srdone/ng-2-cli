@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['ng-2-cli.component.css']
 })
 export class Ng2CliAppComponent {
-  title = 'ng-2-cli works!';
+  title = 'ng-2-cli works! Cool!';
 }
